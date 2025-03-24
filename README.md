@@ -1,4 +1,4 @@
-# [Pacman]
+# Pacman
 ## Overview
 
 This is a simple implementation of the classic Pacman game using Java. The game features Pacman navigating through a maze while avoiding ghosts and collecting pellets to earn points.
