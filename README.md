@@ -39,3 +39,9 @@ This is a simple implementation of the classic Pacman game using Java. The game 
 - **Eat power pellets:** Gain temporary power to eat ghosts.
 
 - **Win by clearing all pellets** before losing all lives.
+
+## Author
+
+Developed by **Biplab Mondal**. Feel free to reach out with any questions!
+
+
