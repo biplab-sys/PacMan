@@ -27,3 +27,15 @@ This is a simple implementation of the classic Pacman game using Java. The game 
 - Swing / Java AWT (GUI and rendering)
 
 - Object-Oriented Programming (OOP) principles
+
+## How to Play
+
+- **Arrow keys:** Move Pacman up, down, left, or right.
+
+- **Avoid ghosts:** If a ghost touches you, you lose a life.
+
+- **Collect pellets:** Eat small dots to increase your score.
+
+- **Eat power pellets:** Gain temporary power to eat ghosts.
+
+- **Win by clearing all pellets** before losing all lives.
